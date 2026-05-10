@@ -100,30 +100,27 @@ Feedback & Score
 # 🎥 Project Demo Video
 
 ## Demo Video
-(Add your video link here)
+
+
+https://github.com/user-attachments/assets/c70f4dbd-384c-498d-9937-e0bbbb7e49cc
+
+
 
 Example:
 
 ```text
 https://youtu.be/your-video-link
 ```
-
-You can upload your demo on:
-- YouTube
-- LinkedIn
-- Google Drive
-
 ---
 
 # 📸 Screenshots
 
-## Home Page
-(Add screenshot here)
-
 ## Resume Upload
-(Add screenshot here)
+<img width="800" height="400" alt="upload" src="https://github.com/user-attachments/assets/3228ce6c-c346-4f8c-bed9-93b3ec0c8a42" />
+
 
 ## Question Evaluation
+<img width="800" height="400" alt="evaluate" src="https://github.com/user-attachments/assets/cbd1fc68-abcb-4689-85e9-b03ce2bde3ad" />
 
 ---
 
